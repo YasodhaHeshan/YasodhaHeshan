@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YasodhaHeshan
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning software engeneering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/yasodhaheshan/
-- ⚡ Fun fact: I like sports.
+- ⚡ Fun fact: I like to sports and tv-series
 
 <!---
 YasodhaHeshan/YasodhaHeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
