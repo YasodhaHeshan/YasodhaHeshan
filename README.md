@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 - 🌱 I’m currently learning advanced data structures and algorithms.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 💬 Ask me about Entrepise App, Mobile App, and web development.
 - 📫 How to reach me: yasodhaheshan2002@gmail.com
 - ⚡ Fun fact: I enjoy hiking and photography.
 
@@ -15,12 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 ### Languages & Tools:
 - **Programming Languages:** Java, C#, Python, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, Express
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, PostgresSql MongoDB
 - **Tools:** Git, Docker, VS Code, Postman
-
-## GitHub Stats
-
-![YasodhaHeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasodhaHeshan&show_icons=true&theme=radical)
 
 ## Let's Connect
 
