@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 ## About Me
 
-- 🌱 I’m currently learning advanced data structures and algorithms.
+- 🌱 I’m currently learning Comuputer Science.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Entrepise App, Mobile App, and web development.
+- 💬 Ask me about Entrepise App, Mobile App, and Web Development.
 - 📫 How to reach me: yasodhaheshan2002@gmail.com
-- ⚡ Fun fact: I enjoy hiking and photography.
+- ⚡ Fun fact: I like to watch sports like Cricket an Football
 
 ## Skills
 
 ### Languages & Tools:
 - **Programming Languages:** Java, C#, Python, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, Express
-- **Databases:** MySQL, PostgresSql MongoDB
+- **Databases:** MSSQL, MySQL, PostgresSql, MongoDB
 - **Tools:** Git, Docker, VS Code, Postman
 
 ## Let's Connect
