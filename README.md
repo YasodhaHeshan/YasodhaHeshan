@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Entrepise App, Mobile App, and Web Development.
 - 📫 How to reach me: yasodhaheshan2002@gmail.com
-- ⚡ Fun fact: I like to watch sports like Cricket an Football
+- ⚡ Fun fact: I like to watch sports like Cricket and Football
 
 ## Skills
 
