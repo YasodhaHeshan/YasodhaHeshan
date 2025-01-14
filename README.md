@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 ## About Me
 
-- 🌱 I’m currently learning Comuputer Science.
+- 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Entrepise App, Mobile App, and Web Development.
 - 📫 How to reach me: yasodhaheshan2002@gmail.com
