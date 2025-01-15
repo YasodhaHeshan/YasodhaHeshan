@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 - **Programming Languages:** Java, C#, Python, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, Express
 - **Databases:** MSSQL, MySQL, PostgresSql, MongoDB
-- **Tools:** Git, Docker, VS Code, Postman
+- **Tools:** Git, VS code, Docker, Postman
 
 ## Let's Connect
 
