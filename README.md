@@ -15,11 +15,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 ### Languages & Tools:
 - **Programming Languages:** Java, C#, Python, JavaScript, Dart
 - **Web Development:** HTML, CSS, React, Node.js, Express
-- **Databases:** MSSQL, MySQL, PostgresSql, MongoDB
+- **Databases:**
+ MSSQL, MySQL, PostgresSql, MongoDB
 - **Tools:** Git, VS code, Docker, Postman
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yasodha-heshan/)
+- [LinkedIn](https://www.linkedin.com/in/yasodhaheshan/)
 
 Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate on a project or just want to connect. 😊
