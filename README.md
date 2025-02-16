@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Entrepise App Devlopment, Mobile App Development, and Web Development.
+- 💬 Ask me about Entrepise App Devlopment, Mobile App Development, DevOps, Cloud Engineering and Web Development.
 - 📫 How to reach me: yasodhaheshan2002@gmail.com
 - ⚡ Fun fact: I like to watch sports like Cricket and Football
 
