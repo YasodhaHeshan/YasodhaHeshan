@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 - **Databases:**
  MSSQL, MySQL, PostgresSql, MongoDB , SQLite
 - **Tools:** Git, VS code, Android Studio, Docker, Postman
+- **Cloud** Azure, AWS, OCI, Google Cloud
 
 ## Let's Connect
 
